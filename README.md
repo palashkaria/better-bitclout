@@ -1,1 +1,1 @@
-# refined-bitclout
+# better-bitclout
